@@ -15,7 +15,7 @@ django-spa==0.2.0
 django-storages==1.6.6
 django-taggit==0.23.0
 django-taggit-serializer==0.1.7
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 docutils==0.14
 elasticsearch==6.3.0
 elasticsearch-dsl==6.2.1
